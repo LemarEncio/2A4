@@ -7,7 +7,7 @@
 * [Zack Dawson](https://github.com/TangJunqian)
 * [Nikko Dionne](https://github.com/Nikkodionn77)
 * [Sierra Doughty]()
-* [Lemar Encio]()
+* [Lemar Encio](https://github.com/LemarEncio)
 * [Ben Fassett]()
 * [Ash Farlkins]()
 * [Jack Fiery](https://github.com/JMF1011)
